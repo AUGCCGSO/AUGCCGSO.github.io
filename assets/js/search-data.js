@@ -419,14 +419,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-pouria-pls-do-semthing-for-the-news",
+          title: 'Pouria pls do semthing for the news',
           description: "",
-          section: "News",},{id: "news-we-create-the-website",
-          title: 'We create the website.',
+          section: "News",},{id: "news-pleaase-pouria-create-some-news",
+          title: 'Pleaase pouria create some news',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-please-pouria-delivers-the-news",
+          title: 'Please Pouria delivers the news',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
@@ -480,35 +480,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%6B%69%61%6E@%61%75%67%75%73%74%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-instagram',
+        title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://instagram.com/hugomirault", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://augusta.presence.io/organization/computer-cyber-graduate-student-organization", "_blank");
         },
       },{
       id: 'light-theme',
