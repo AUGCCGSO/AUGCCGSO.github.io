@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Students
+description: The list of your favorite students (Hugo must go first)
 nav: true
 nav_order: 7
 
