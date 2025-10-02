@@ -23,16 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-fallfest",
-          title: "FallFest",
-          description: "Poster and talk showcased during fall fest",
+        },{id: "nav-elections",
+          title: "Elections",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/elections/";
           },
         },{id: "nav-students",
           title: "Students",
-          description: "The list of your favorite students (Hugo must go first)",
+          description: "TODO (_pages/profile.md)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -51,9 +51,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-todo-post",
         
-          title: "a post with plotly.js",
+          title: "TODO (_post/*)",
         
         description: "this is what included plotly.js code could look like",
         section: "Posts",
@@ -84,9 +84,9 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-todo-post",
         
-          title: "a post with tabs",
+          title: "TODO (_post/*)",
         
         description: "this is what included tabs in a post could look like",
         section: "Posts",
@@ -172,9 +172,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/geojson-map/";
           
         },
-      },{id: "post-a-post-with-echarts",
+      },{id: "post-todo-post",
         
-          title: "a post with echarts",
+          title: "TODO (_post/*)",
         
         description: "this is what included echarts code could look like",
         section: "Posts",
@@ -183,9 +183,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/echarts/";
           
         },
-      },{id: "post-a-post-with-chart-js",
+      },{id: "post-todo-post",
         
-          title: "a post with chart.js",
+          title: "TODO (_post/*)",
         
         description: "this is what included chart.js code could look like",
         section: "Posts",
@@ -194,9 +194,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
-      },{id: "post-a-post-with-tikzjax",
+      },{id: "post-todo-post",
         
-          title: "a post with TikZJax",
+          title: "TODO (_post/*)",
         
         description: "this is what included TikZ code could look like",
         section: "Posts",
@@ -260,9 +260,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/audios/";
           
         },
-      },{id: "post-a-post-with-videos",
+      },{id: "post-todo-post",
         
-          title: "a post with videos",
+          title: "TODO (_post/*)",
         
         description: "this is what included videos could look like",
         section: "Posts",
@@ -271,9 +271,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/videos/";
           
         },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+      },{id: "post-todo-post",
         
-          title: "displaying beautiful tables with Bootstrap Tables",
+          title: "TODO (_post/*)",
         
         description: "an example of how to use Bootstrap Tables",
         section: "Posts",
@@ -337,9 +337,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-todo-post",
         
-          title: "a distill-style blog post",
+          title: "TODO (_post/*)",
         
         description: "an example of a distill-style blog post and main elements",
         section: "Posts",
@@ -348,9 +348,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/distill/";
           
         },
-      },{id: "post-a-post-with-twitter",
+      },{id: "post-todo-post",
         
-          title: "a post with twitter",
+          title: "TODO (_post/*)",
         
         description: "an example of a blog post with twitter",
         section: "Posts",
@@ -392,9 +392,9 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "post-a-post-with-images",
+      },{id: "post-todo-post",
         
-          title: "a post with images",
+          title: "TODO (_post/*)",
         
         description: "this is what included images could look like",
         section: "Posts",
@@ -419,14 +419,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pouria-pls-do-semthing-for-the-news",
-          title: 'Pouria pls do semthing for the news',
+            },},{id: "news-todo-news",
+          title: 'TODO (_news/*)',
           description: "",
-          section: "News",},{id: "news-pleaase-pouria-create-some-news",
-          title: 'Pleaase pouria create some news',
+          section: "News",},{id: "news-todo-news",
+          title: 'TODO (_news/*)',
           description: "",
-          section: "News",},{id: "news-please-pouria-delivers-the-news",
-          title: 'Please Pouria delivers the news',
+          section: "News",},{id: "news-todo-news",
+          title: 'TODO (_news/*)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
