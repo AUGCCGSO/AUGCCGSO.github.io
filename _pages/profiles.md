@@ -7,7 +7,6 @@ nav: true
 nav_order: 7
 
 profiles:
-
   - align: right
     image: student_pic/hugo.jpg
     content: about_hugo.md
@@ -16,11 +15,11 @@ profiles:
       <p> TODO (_pages/profile.md) </p>
       <p> TODO (_pages/profile.md) </p>
       <p> TODO (_pages/profile.md) </p>
-      
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: false 
+    image_circular: false
       <p> TODO (_pages/profile.md) </p>
       <p> TODO (_pages/profile.md) </p>
       <p> TODO (_pages/profile.md) </p>

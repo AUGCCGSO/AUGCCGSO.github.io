@@ -4,7 +4,7 @@
 
 title: CCGSO
 first_name: Computer and Cyber Graduate Student Organization
-middle_name: Augusta University 
+middle_name: Augusta University
 last_name: CCGSO
 contact_note: >
   Please update the contact note in _config.yaml
@@ -17,9 +17,9 @@ lang: en
 icon: 🖥️
 
 url: https://AUGCCGSO.github.io
-baseurl: 
+baseurl:
 last_updated: false
-impressum_path: 
+impressum_path:
 
 # -----------------------------------------------------------------------------
 # Theme

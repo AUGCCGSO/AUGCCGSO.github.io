@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-TODO (_news/annoucement_2.md)
+TODO (\_news/annoucement_2.md)

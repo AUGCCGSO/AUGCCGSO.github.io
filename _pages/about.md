@@ -35,20 +35,20 @@ _The purpose of the CCGSO is to:_
 
 We aim to be the voice of graduate students within the School of Computer and Cyber Sciences (SCCS) , while also collaborating with the broader Graduate Association to represent the collective interests of all graduate students at Augusta University.
 
-## (2) TODO (_pages/about.md)
+## (2) TODO (\_pages/about.md)
 
 We are dedicated to fostering an inclusive and supportive environment for graduate students within the School of Computer and Cyber Sciences, ensuring their academic and personal well-being.
 
-## (3) TODO (_pages/about.md)
+## (3) TODO (\_pages/about.md)
 
 Our organization serves as a platform for graduate students within SCCS to actively engage with the broader Augusta University community, facilitating collaboration and involvement.
 
-## (4) TODO (_pages/about.md)
+## (4) TODO (\_pages/about.md)
 
 We advocate for policies and procedures that benefit graduate students within our School, and we work in tandem with the Graduate School to ensure the enhancement of academic, professional, and personal development opportunities for all graduate students at Augusta University School of Computer and Cyber Sciences.
 
 # TODO
 
- - [ ] Remove albert reference and replace if possible by CCGSO reference
- - [ ] Change style and design
- - [ ] Make fillers for subpages
+- [ ] Remove albert reference and replace if possible by CCGSO reference
+- [ ] Change style and design
+- [ ] Make fillers for subpages
