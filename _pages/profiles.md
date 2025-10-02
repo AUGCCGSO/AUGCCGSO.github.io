@@ -2,25 +2,26 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: The list of your favorite students (Hugo must go first)
+description: TODO (_pages/profile.md)
 nav: true
 nav_order: 7
 
 profiles:
+
   - align: right
     image: student_pic/hugo.jpg
-    content: about_einstein.md
+    content: about_hugo.md
     image_circular: true
     more_info: >
-      <p>Who is this moron ?</p>
-      <p>????</p>
-      <p>It's Michel Pastel</p>
+      <p> TODO (_pages/profile.md) </p>
+      <p> TODO (_pages/profile.md) </p>
+      <p> TODO (_pages/profile.md) </p>
+      
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    image_circular: false 
+      <p> TODO (_pages/profile.md) </p>
+      <p> TODO (_pages/profile.md) </p>
+      <p> TODO (_pages/profile.md) </p>
 ---

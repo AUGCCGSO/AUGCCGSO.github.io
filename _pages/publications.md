@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: FallFest
-description: Poster and talk showcased during fall fest
+description: title: TODO (_post/*)
 nav: true
 nav_order: 2
 ---
