@@ -14,28 +14,28 @@
 
   // Background
   --global-bg-color: #{$beige-text-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: $beige-text-color;
 
   // Texte
-  --global-text-color: #{$navy-blue-color};
-  --global-text-color-light: #{$muted-text-color};
+  --global-text-color: #{$augusta-blue};
+  --global-text-color-light: #{$augusta-grey};
 
   // Accents
-  --global-theme-color: #{$gold-accent-color};
-  --global-hover-color: #{$gold-accent-hover};
-  --global-hover-text-color: #{$navy-blue-color};
+  --global-theme-color: #{$athletic-blue};
+  --global-hover-color: #{$athletic-blue-hover};
+  --global-hover-text-color: #{$augusta-blue};
 
   // Footer
-  --global-footer-bg-color: #{$light-warm-grey};
-  --global-footer-text-color: #{$navy-blue-color};
-  --global-footer-link-color: #{$dark-charcoal-color};
+  --global-footer-bg-color: $beige-text-color;
+  --global-footer-text-color: #{$augusta-blue};
+  --global-footer-link-color: #{$athletic-blue};
 
   // Autres éléments
   --global-distill-app-color: #{$muted-text-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$light-warm-grey};
+  --global-divider-color: rgba(0, 47, 85, 0.1);
+  --global-card-bg-color: #{$beige-text-color};
   --global-highlight-color: #{$red-color-dark};
-  --global-back-to-top-bg-color: #{$navy-blue-color};
+  --global-back-to-top-bg-color: #{$augusta-blue};
   --global-back-to-top-text-color: #{$beige-text-color};
   --global-newsletter-bg-color: #{$light-warm-grey};
   --global-newsletter-text-color: #{$navy-blue-color};
@@ -117,29 +117,29 @@ html[data-theme="dark"] {
   color-scheme: dark;
 
   // Background
-  --global-bg-color: #{$navy-blue-color};
-  --global-code-bg-color: #{$code-bg-color-dark};
+  --global-bg-color: #{$augusta-blue};
+  --global-code-bg-color: #002a4c;
 
   // Texte
-  --global-text-color: #{$beige-text-color};
-  --global-text-color-light: #{$muted-text-color};
+  --global-text-color: #{$light-text};
+  --global-text-color-light: #{$augusta-grey};
 
   // Accents
-  --global-theme-color: #{$gold-accent-color};
-  --global-hover-color: #{$gold-accent-hover};
-  --global-hover-text-color: #{$navy-blue-color};
+  --global-theme-color: #{$athletic-blue};
+  --global-hover-color: #{$athletic-blue-hover};
+  --global-hover-text-color: #{$augusta-blue};
 
   // Footer
-  --global-footer-bg-color: #{$dark-charcoal-color};
-  --global-footer-text-color: #{$muted-text-color};
-  --global-footer-link-color: #{$beige-text-color};
+  --global-footer-bg-color: #{$dark-ui-bg};
+  --global-footer-text-color: #{$light-text};
+  --global-footer-link-color: #{$athletic-blue};
 
   // Autres éléments
-  --global-distill-app-color: #{$muted-text-color};
+  --global-distill-app-color: #{$athletic-blue};
   --global-divider-color: #424246;
-  --global-card-bg-color: #{$dark-charcoal-color};
-  --global-back-to-top-bg-color: rgba(247, 239, 228, 0.8);
-  --global-back-to-top-text-color: #{$navy-blue-color};
+  --global-card-bg-color: #{$dark-ui-bg};
+  --global-back-to-top-bg-color: #{$athletic-blue};
+  --global-back-to-top-text-color: #{$augusta-blue};
   --global-newsletter-bg-color: #{$beige-text-color};
   --global-newsletter-text-color: #{$navy-blue-color};
 
